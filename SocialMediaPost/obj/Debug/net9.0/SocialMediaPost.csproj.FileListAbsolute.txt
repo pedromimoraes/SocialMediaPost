@@ -1,0 +1,15 @@
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\bin\Debug\net9.0\SocialMediaPost.exe
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\bin\Debug\net9.0\SocialMediaPost.deps.json
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\bin\Debug\net9.0\SocialMediaPost.runtimeconfig.json
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\bin\Debug\net9.0\SocialMediaPost.dll
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\bin\Debug\net9.0\SocialMediaPost.pdb
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.AssemblyInfoInputs.cache
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.AssemblyInfo.cs
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.csproj.CoreCompileInputs.cache
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.sourcelink.json
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.dll
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\refint\SocialMediaPost.dll
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.pdb
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\SocialMediaPost.genruntimeconfig.cache
+C:\Users\pedro.moraes\Documents\C#\SocialMediaPost\SocialMediaPost\obj\Debug\net9.0\ref\SocialMediaPost.dll
